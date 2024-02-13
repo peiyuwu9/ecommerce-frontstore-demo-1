@@ -3,7 +3,7 @@
 ## Motivation
 Create a app to test React Redux.
 
-## Technologies Used and Why
+## Technologies used and why
 **React** is used as frontend library.  
 **Redux** is used as state management.
 
