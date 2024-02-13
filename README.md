@@ -8,4 +8,4 @@ Create a app to test React Redux.
 **Redux** is used as state management.
 
 ## How to Use
-1. Deploy to **Firebase**
+Deploy to **Firebase**
