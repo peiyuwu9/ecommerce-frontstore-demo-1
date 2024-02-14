@@ -1,4 +1,4 @@
-# Frontend React-Redux for Shucha Website Demo
+# Frontend React-Redux for Ecommerce Website Demo
 
 ## Motivation
 Create a app to test React Redux.
