@@ -1,11 +1,11 @@
 # Frontend React-Redux for Shucha Website Demo
 
 ## Motivation
-Create a app to test React Redux
+Create a app to test React Redux.
 
 ## Technologies Used and Why
-**React** is used as frontend library  
-**Redux** is used as state management
+**React** is used as frontend library.  
+**Redux** is used as state management.
 
 ## How to Use
-Deploy to **Firebase**
+Deploy to **Firebase**.
